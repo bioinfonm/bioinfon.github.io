@@ -329,7 +329,7 @@ sns.lmplot("start", "wheat_gross_yield_per_seed_ratio", data=grain_data, hue='Co
 
 
 
-![png](/pystan_musings_part1_img/output_15_1.png)
+![png](./pystan_musings_part1_img/output_15_1.png)
 
 
 
@@ -346,7 +346,7 @@ sns.lmplot("start", "wheat_gross_yield_per_seed_ratio", data=grain_data, hue='Co
 
 
 
-![png](output_16_1.png)
+![png](./pystan_musings_part1_img/output_16_1.png)
 
 
 
@@ -356,7 +356,7 @@ sns.stripplot(x="County", y="wheat_gross_yield_per_seed_ratio", data=grain_data)
 ```
 
 
-![png](output_17_0.png)
+![png](./pystan_musings_part1_img/output_17_0.png)
 
 
 ### Our question
@@ -500,7 +500,7 @@ sns.lmplot("start", "wheat_gross_yield_per_seed_ratio", data=matched_grain, hue=
 
 
 
-![png](output_23_1.png)
+![png](./pystan_musings_part1_img/output_23_1.png)
 
 
 
@@ -606,12 +606,12 @@ fit_compare_groups.plot()
 
 
 
-![png](output_30_0.png)
+![png](./pystan_musings_part1_img/output_30_0.png)
 
 
 
 
-![png](output_30_1.png)
+![png](./pystan_musings_part1_img/output_30_1.png)
 
 
 
@@ -622,7 +622,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](./pystan_musings_part1_img/output_31_0.png)
 
 
 
@@ -714,7 +714,7 @@ sns.distplot((params.mu1 - params.mu2), kde=False, rug=False);
 ```
 
 
-![png](output_34_0.png)
+![png](./pystan_musings_part1_img/output_34_0.png)
 
 
 
@@ -741,7 +741,7 @@ sns.distplot((params.sigma1 - params.sigma2), kde=False, rug=False);
 ```
 
 
-![png](output_36_0.png)
+![png](./pystan_musings_part1_img/output_36_0.png)
 
 
 
