@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1
+title: Pystan musings of a geomicrobiolgist - Part 1
 ---
 
 
