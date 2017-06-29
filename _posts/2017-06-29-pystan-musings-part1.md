@@ -338,7 +338,7 @@ sns.lmplot("start", "wheat_gross_yield_per_seed_ratio", data=grain_data, hue='Co
 
 
 
-![png](/pystan_musings_part1_img/output_15_1.png)
+![png](output_15_1.png)
 
 
 
