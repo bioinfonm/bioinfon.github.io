@@ -33,7 +33,7 @@ We are going to look at just two manors in two seperate counties in England. Ber
 
 <tr>
 <td> Berkshire<img src="https://github.com/bioinfonm/bioinfonm.github.io/blob/master/_posts/pystan_musings_part1_img/200px-Berkshire_UK_locator_map_2010.svg.png" title="Berkshire" style="width: 250px;"/> </td>
-<td> Hampshire<img src="./pystan_musings_part1_img/200px-Hampshire_UK_locator_map_2010.svg.png" alt="Hampshire" style="width: 250px;"/> </td>
+<td> Hampshire<img src="https://github.com/bioinfonm/bioinfonm.github.io/blob/master/_posts/pystan_musings_part1_img/200px-Hampshire_UK_locator_map_2010.svg.png" alt="Hampshire" style="width: 250px;"/> </td>
 </tr>
 
 
@@ -329,7 +329,7 @@ sns.lmplot("start", "wheat_gross_yield_per_seed_ratio", data=grain_data, hue='Co
 
 
 
-![png](./pystan_musings_part1_img/output_15_1.png)
+![png](https://github.com/bioinfonm/bioinfonm.github.io/blob/master/_posts/pystan_musings_part1_img/output_15_1.png)
 
 
 
