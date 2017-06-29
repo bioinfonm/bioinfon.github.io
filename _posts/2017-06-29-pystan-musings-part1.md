@@ -32,7 +32,7 @@ Bruce M. S. Campbell (2007), Three centuries of English crops yields, 1211‑149
 We are going to look at just two manors in two seperate counties in England. Berkshire and Hampshire and the manors Alresford and Brightwell, respectively. 
 
 <tr>
-<td> Berkshire<img src="./pystan_musings_part1_img/200px-Berkshire_UK_locator_map_2010.svg.png" title="Berkshire" style="width: 250px;"/> </td>
+<td> Berkshire<img src="https://github.com/bioinfonm/bioinfonm.github.io/blob/master/_posts/pystan_musings_part1_img/200px-Berkshire_UK_locator_map_2010.svg.png" title="Berkshire" style="width: 250px;"/> </td>
 <td> Hampshire<img src="./pystan_musings_part1_img/200px-Hampshire_UK_locator_map_2010.svg.png" alt="Hampshire" style="width: 250px;"/> </td>
 </tr>
 
