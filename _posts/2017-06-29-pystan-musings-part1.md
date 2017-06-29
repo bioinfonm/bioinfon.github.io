@@ -774,7 +774,7 @@ In the data section of our Stan model we really should have bounds on our data t
 So <i>int n1</i> becomes <i>int&lt;lower=1> n1</i>. This sets a boundary that we expect at least one sample.
 
 ### Future work
-Seaborn handled the linear models for us. So the next project has three parts:<br>
+Seaborn handled the linear models for us and we want to move this into Pystan. So the next project has three parts:<br>
 Simple linear model with time predicting grain production<br>
 Simple non-linear model fitting of time predicting grain production<br>
 Can we write a model that let's us know if previous years harvest influcence the next year<br>
